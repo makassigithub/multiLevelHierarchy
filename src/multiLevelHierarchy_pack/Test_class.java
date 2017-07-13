@@ -23,9 +23,7 @@ public class Test_class {
 		//Constructor that will clone ch1
 		Check_out ch3 = new Check_out(ch1);
         
-		// Now let's print the objects.
-		
-		
+		// Now let's print the objects.	
 		System.out.print("ch1: ");System.out.println(ch1);
 		System.out.print("ch2: ");System.out.println(ch2);
 		System.out.print("ch3: ");System.out.println(ch3);
